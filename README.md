@@ -41,7 +41,7 @@ Model and Evaluation
 
 8. Build a Baseline Linear Regression Model
 
-9.Model Evaluation
+9. Model Evaluation
 
 10. Residual Analysis
 
