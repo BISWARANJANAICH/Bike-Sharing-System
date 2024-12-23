@@ -50,10 +50,13 @@ Model and Evaluation
 
 ## Technology Used:
 
-Python 3.8 version
-Pandas
-Seaborn
-Matplotlib
+1. Python 3.8 version
+   
+2. Pandas
+
+3. Seaborn
+   
+4. Matplotlib
 
 ## Acknowledgment
 This project was given by Upgrade as part of AIML program.
