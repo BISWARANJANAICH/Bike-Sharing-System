@@ -25,17 +25,27 @@ By analyzing historical data, this project aims to:
 ## Table of Contents
 Model and Evaluation
 
-Load and Understand the Dataset
-Data Quality Checks
-Handle Categorical Variables
-Feature Engineering
-Exploratory Data Analysis (EDA)
-Model Building
-Define Target and Features and Data Splitting
-Build a Baseline Linear Regression Model
-Model Evaluation
-Residual Analysis
-Evaluate on Test Data
+1. Load and Understand the Dataset
+
+2. Data Quality Checks
+   
+3. Handle Categorical Variables
+
+4. Feature Engineering
+
+5. Exploratory Data Analysis (EDA)
+
+6. Model Building
+
+7. Define Target and Features and Data Splitting
+
+8. Build a Baseline Linear Regression Model
+
+9.Model Evaluation
+
+10. Residual Analysis
+
+11. Evaluate on Test Data
 
 
 ## Technology Used:
