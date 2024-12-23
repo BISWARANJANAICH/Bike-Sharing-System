@@ -6,14 +6,14 @@ This repository contains the solution for a case study involves building a Multi
 The goal is to identify significant factors influencing bike rentals and understand how these variables impact demand dynamics. 
 This model will enable the management of BoomBikes, a bike-sharing provider, to strategize and optimize their operations in the post-pandemic scenario.
 
-Data Overview
+## Data Overview
 The dataset contains daily bike rental data with features like weather conditions, seasonality, and user types (casual or registered). Key points include:
 
 Target Variable: cnt (total bike rentals).
 Important Features: yr (yearly trends), season, weathersit, and others.
 Data Preprocessing: Features such as season and weathersit are converted to categorical strings for better interpretability.
 
-Purpose of Analysis:
+## Purpose of Analysis:
 
 BoomBikes has experienced a dip in revenues during the pandemic and aims to anticipate bike-sharing demand to create a competitive edge. 
 By analyzing historical data, this project aims to:
@@ -22,7 +22,7 @@ By analyzing historical data, this project aims to:
 2. Quantify the influence of these variables on overall demand.
 3. Provide insights to guide business strategy and decision-making.
 
-Table of Contents
+## Table of Contents
 Model and Evaluation
 
 Load and Understand the Dataset
@@ -38,7 +38,7 @@ Residual Analysis
 Evaluate on Test Data
 
 
-##Technology Used:
+## Technology Used:
 
 Python 3.8 version
 Pandas
